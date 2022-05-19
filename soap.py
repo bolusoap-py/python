@@ -10,6 +10,6 @@ elif op == "/":
 elif op == "*":
     print(num1 * num2)
 else:
-    print("invalid operation")
+    print("syntax error")
     
 
